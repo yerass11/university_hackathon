@@ -1,6 +1,6 @@
 
 
-# 2D Game Project
+# University Hackathon
 
 ## Overview
 This project is a 2D game created during a university hackathon. It highlights the team's creativity and technical skills in building an engaging game experience within a short timeframe. The game features captivating gameplay mechanics, custom graphics, and immersive audio.
