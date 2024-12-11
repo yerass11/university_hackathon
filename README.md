@@ -2,6 +2,9 @@
 
 # University Hackathon
 
+## Demo 
+![](https://github.com/yerass11/hackathon_using_pygame/blob/main/demo.gif)
+
 ## Overview
 This project is a 2D game created during a university hackathon. It highlights the team's creativity and technical skills in building an engaging game experience within a short timeframe. The game features captivating gameplay mechanics, custom graphics, and immersive audio.
 
@@ -34,9 +37,6 @@ This project is a 2D game created during a university hackathon. It highlights t
 - **Scripts/**: Game logic and mechanics implemented in code.
 - **Scenes/**: Levels.
 - **Docs/**: Additional documentation and resources.
-
-## Demo 
-![](https://github.com/yerass11/hackathon_using_pygame/blob/main/demo.gif)
 
 ## Future Improvements
 - Add more levels and challenges.
